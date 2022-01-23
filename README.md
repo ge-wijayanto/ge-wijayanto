@@ -56,7 +56,7 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 <br>
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ge-wijayanto)]
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=ge-wijayanto)
 
 ## Some motivational quotes: <em>"Don't just wake up to survive, always aim to thrive!🏆"<em>
 
