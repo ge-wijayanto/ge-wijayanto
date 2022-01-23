@@ -58,7 +58,7 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 
 ---
 
-### Some motivational quotes:
+## Some motivational quotes:
 ### "Don't just wake up to survive, always aim to thrive!🏆"
 
 [LinkedIn]: https://www.linkedin.com/in/ge-wijayanto/
