@@ -13,7 +13,7 @@
 
 By the end of this year, I want to get better at (or even master) Linux, Security Tools/Framework, and Python. As of now, I have taken a couple of courses related to those and still working on them! I also want to partake in some projects or activities to further hone my skills!
 
-## Feel free to connect at: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Feel free to connect at: [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 - 💬 Ask me about anything! 
 - 🧠 Would love to brainstorm some ideas/topics!
