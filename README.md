@@ -52,7 +52,5 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 <img align="left" alt="Github" width="30px" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/>
 <!-- Powershell -->
 <img align="left" alt="Powershell" width="30px" src="https://img.icons8.com/color/48/000000/powershell.png"/>
-<!-- CLI -->
-<img align="left" alt="CLI" width="30px" src="https://img.icons8.com/ios-filled/50/000000/command-line.png"/>
 
 [LinkedIn]: https://www.linkedin.com/in/ge-wijayanto/
