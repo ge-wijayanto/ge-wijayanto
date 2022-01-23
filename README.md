@@ -2,7 +2,8 @@
 
 ![introduction_banner](assets/intro_banner.gif)
 
-## Currently a Student and Developer, aspiring to be a Specialist at Information/Cyber Security and Computer Networking!
+## Currently a Student and Developer, 
+### aspiring to be a Specialist at Information/Cyber Security and Computer Networking!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
