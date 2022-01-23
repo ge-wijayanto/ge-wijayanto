@@ -2,8 +2,7 @@
 
 ![introduction_banner](assets/intro_banner.gif)
 
-### Currently a Student/Developer💻 
----
+## Currently a Student/Developer💻 
 ## Aspiring to be a Specialist at Information Security and Computer Networking!
 
 - 🔭 I’m currently working on refining my skills!
