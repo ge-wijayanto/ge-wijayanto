@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on refining my skills!
 - 🌱 Currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
-- 👯 Looking to collaborate on with other computer enthusiast.
+- 👯 Looking to collaborate with other computer enthusiast.
 - ⚡ Fun fact: Big time Petrolhead (mostly JDMs and Muscle Cars, but European Cars too!)🔰🔰
 
 ## 🎯 2022 Goals: 
@@ -55,6 +55,13 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 
 <br>
 <br>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ge-wijayanto&show_icons=true&hide_border=true" />
+
+</details>
 
 ## Some motivational quotes: <em>"Don't just wake up to survive, always aim to thrive!🏆"<em>
 
