@@ -53,4 +53,7 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 <!-- Powershell -->
 <img align="left" alt="Powershell" width="30px" src="https://img.icons8.com/color/48/000000/powershell.png"/>
 
+## Some motivational quotes:
+### "Don't just wake up to survive, always aim to thrive!"
+
 [LinkedIn]: https://www.linkedin.com/in/ge-wijayanto/
