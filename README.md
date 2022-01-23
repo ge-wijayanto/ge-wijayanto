@@ -56,12 +56,7 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 <br>
 <br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ge-wijayanto&show_icons=true&hide_border=true" />
-
-</details>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ge-wijayanto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some motivational quotes: <em>"Don't just wake up to survive, always aim to thrive!🏆"<em>
 
