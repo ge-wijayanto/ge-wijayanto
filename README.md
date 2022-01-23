@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on with other computer enthusiast.
 - ⚡ Fun fact: Big time Petrolhead (mostly JDMs and Muscle Cars, but European Cars too!)🔰🔰
 
-## 🎯 2022 Targets: 
+## 🎯 2022 Goals: 
 
 By the end of this year, I want to get better at (or even master) Linux, Security Tools/Framework, and Python. As of now, I have taken a couple of courses related to those and still working on them! I also want to partake in some projects or activities to further hone my skills!
 
