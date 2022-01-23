@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm ge-wijayanto! -- But you can call me Gregory! 👋
 
 ![introduction_banner](assets/intro_banner.gif)
 <!--
