@@ -1,6 +1,17 @@
 ### Hi there, I'm ge-wijayanto! -- But you can call me Gregory! 👋
 
 ![introduction_banner](assets/intro_banner.gif)
+
+## Currently a Student and Developer, aspiring to be a Specialist at Information/Cyber Security and Computer Networking!
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: Big time Petrolhead (mostly JDMs and Muscle Cars, but European Cars too!)🔰🔰
+
+
 <!--
 **ge-wijayanto/ge-wijayanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
