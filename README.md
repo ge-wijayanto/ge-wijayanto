@@ -5,9 +5,9 @@
 ## Currently a Student/Developer💻 
 ## Aspiring to be a Specialist at Information Security and Computer Networking!
 
-- 🔭 I’m currently working on refining my skills!
-- 🌱 I’m currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
-- 👯 I’m looking to collaborate on with other computer enthusiast.
+- 🔭 Currently working on refining my skills!
+- 🌱 Currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
+- 👯 Looking to collaborate on with other computer enthusiast.
 - ⚡ Fun fact: Big time Petrolhead (mostly JDMs and Muscle Cars, but European Cars too!)🔰🔰
 
 ## 🎯 2022 Targets: 
@@ -20,5 +20,11 @@ By the end of this year, I want to get better at (or even master) Linux, Securit
 - 🧠 Would love to brainstorm some ideas/topics!
 
 ## Languages & Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] <!-- VSCode -->
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] <!-- HTML -->
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />] <!-- CSS -->
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/officel/30/000000/php-logo.png" />] <!-- PHP -->
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] <!-- JS -->
+
 
 [LinkedIn]: https://www.linkedin.com/in/ge-wijayanto/
