@@ -8,7 +8,6 @@
 - 🔭 Currently working on refining my skills!
 - 🌱 Currently learning ... well everything 🤣, but mostly Information/Cyber Security and Computer Network Tools/Topics 
 - 👯 Looking to collaborate with other computer enthusiast.
-- ⚡ Fun fact: Big time Petrolhead (mostly JDMs and Muscle Cars, but European Cars too!)🔰🔰
 
 ## 🎯 2022 Goals: 
 
