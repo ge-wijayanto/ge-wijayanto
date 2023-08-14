@@ -10,7 +10,6 @@
 
 ## 🎯 2022 Goals: 
 
-- Get better at (or even master) Linux, Security Tools/Framework, and Python.
 - Further hone my skills.
 
 ## Languages & Tools:
