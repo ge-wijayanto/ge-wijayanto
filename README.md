@@ -2,7 +2,7 @@
 
 ![introduction_banner](assets/intro_banner.gif)
 
-## Currently a Student/Developer💻 
+## 💻 General Info  
 
 - 🔭 Currently working on refining my skills!
 - 🌱 Currently learning ... well everything 🤣, but mostly Information Security and Computer Network Tools/Topics 
