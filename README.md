@@ -8,7 +8,7 @@
 - 🌱 Currently learning ... well everything 🤣, but mostly Information Security and Computer Network Tools/Topics 
 - 👯 Looking to collaborate with other computer enthusiast.
 
-## 🎯 2022 Goals: 
+## 🎯 2024 Goals: 
 
 - Further hone my skills.
 
